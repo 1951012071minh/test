@@ -10,10 +10,10 @@ package com.mycompany.job1;
  */
 public class NewClass {
     public int a;
-<<<<<<< HEAD
+
     public int d;
-=======
+
+
     public int b;
     public int c;
->>>>>>> origin/main
 }
