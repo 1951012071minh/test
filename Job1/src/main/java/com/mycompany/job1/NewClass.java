@@ -10,4 +10,5 @@ package com.mycompany.job1;
  */
 public class NewClass {
     public int a;
+    public int d;
 }
